@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast'; 
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Home from './pages/Home';
+import Home from './pages/home';
 import TourDetails from './pages/TourDetails';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
