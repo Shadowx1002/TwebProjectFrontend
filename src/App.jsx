@@ -10,7 +10,7 @@ import AllTours from './pages/AllTours';
 import Packages from './pages/Packages';
 import PackageDetails from './pages/PackageDetails'; // <--- New Import
 import Reviews from './pages/Reviews';
-import AdminDashboard from './pages/admin/AdminDashboard'; // <--- New Import
+import AdminDashboard from './pages/AdminDashboard'; // <--- New Import
 
 function App() {
   return (
