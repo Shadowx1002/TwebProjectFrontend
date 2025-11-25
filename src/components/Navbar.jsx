@@ -28,7 +28,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center  text-xl md:text-3xl font-bold tracking-tighter">
               <img src="/logo.png" alt="Kavindu Travels" className="h-12 w-auto mr-2 object-contain" />
               <span className="hidden sm:block md:mt-4 text-[#111828]">Kavindu Travels</span>
-              <span className="sm:hidden">Kavindu</span>
+              <span className="sm:hidden">Kavindu Travels</span>
             </Link>
           </div>
 
